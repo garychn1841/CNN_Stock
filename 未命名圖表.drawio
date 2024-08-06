@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.7.6">
+  <diagram name="第1頁" id="09PcqxUoIxslocME9w3C">
+    <mxGraphModel dx="785" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uSOiPiy2aCodP18KVjpx-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="660" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="660" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uSOiPiy2aCodP18KVjpx-1" target="uSOiPiy2aCodP18KVjpx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-1" value="run.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uSOiPiy2aCodP18KVjpx-11" target="uSOiPiy2aCodP18KVjpx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uSOiPiy2aCodP18KVjpx-11" target="uSOiPiy2aCodP18KVjpx-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-11" value="exp_daytrade.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uSOiPiy2aCodP18KVjpx-12" target="uSOiPiy2aCodP18KVjpx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-12" value="exp_basic.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uSOiPiy2aCodP18KVjpx-13" target="uSOiPiy2aCodP18KVjpx-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-13" value="TimesNet.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-14" value="layers.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="140" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uSOiPiy2aCodP18KVjpx-15">
+          <mxGeometry y="30" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="uSOiPiy2aCodP18KVjpx-15" source="uSOiPiy2aCodP18KVjpx-2" target="uSOiPiy2aCodP18KVjpx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-2" value="data_factory.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uSOiPiy2aCodP18KVjpx-15">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-4" value="data_loader.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="uSOiPiy2aCodP18KVjpx-15">
+          <mxGeometry x="184" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-7" value="資料處理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uSOiPiy2aCodP18KVjpx-15">
+          <mxGeometry x="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-29" value="預測模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-31" value="get_tick.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-32" value="helper.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uSOiPiy2aCodP18KVjpx-33" value="traderbot.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
